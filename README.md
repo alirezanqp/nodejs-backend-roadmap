@@ -188,7 +188,7 @@ Choose a library according to your project requirements and do not get confused 
 ## Hands-on Experience
 
   🎉 Congrats!\
-  👋  You have passed steps 1, 2, and 3, Now, Let's get your hands dirty!\
+  👋  You have passed steps 1, 2, 3 and 4, Now, Let's get your hands dirty!\
   ⚠️ The following topics don't have any order or priority of learning.\
   ✅ Choose topics that you are **interested in** or **suit your needs**.
 
