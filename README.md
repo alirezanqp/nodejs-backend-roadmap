@@ -261,6 +261,7 @@ Choose a library according to your project requirements and do not get confused 
   - [Building Microservices](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1492034029/) (English) (Paid)
   - [Microservice Architecture](https://www.oreilly.com/library/view/microservice-architecture/9781491956328) (English) (Paid)
   - [Monolith to Microservices](https://www.amazon.com/Monolith-Microservices-Evolutionary-Patterns-Transform/dp/1492047848) (English) (Paid)
+  - [Hands-On Microservices with Node.js](https://www.amazon.com/Hands-Microservices-Node-js-microservices-JavaScript/dp/1788620216) (English) (Paid)
   - [Patterns of Enterprise Application Architecture](https://www.amazon.de/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420) (English) (Paid)
   - [Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions](https://www.amazon.de/-/en/Gregor-Hohpe/dp/0321200683/) (English) (Paid)
 
