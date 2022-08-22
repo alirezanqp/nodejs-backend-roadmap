@@ -62,6 +62,7 @@
     - [System Design Interview: Volume 2 by Alex Xu & Sahn Lam](https://www.amazon.com/System-Design-Interview-Insiders-Guide/dp/1736049119) (English) (Paid)
   - **Course**
     - [Educative - Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview) (English) (Paid)
+    - [Mastering the System Design Interview](https://www.udemy.com/course/system-design-interview-prep/) (English) (Paid)
 
 - ### Git
   
