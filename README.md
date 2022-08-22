@@ -206,13 +206,14 @@ Choose a library according to your project requirements and do not get confused 
 - ### PostgreSQL
   
   - **Video**
-    
-    - [Database concepts by Alireza Morteza Amini](https://maktabkhooneh.org/course/%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%87-%D8%AF%D8%A7%D8%AF%D9%87-mk214/) (Persian) (Free)
+    - [SQL & PostgreSQL for Beginners](https://www.udemy.com/course/sql-and-postgresql-for-beginners/) (English) (Paid)
     - [PostgreSQL Tutorial by Alireza Ayinmehr](https://www.youtube.com/playlist?list=PLdUn5H7OTUk1PSzkW_1KmEX_wASLw7X_M) (Persian) (Free)
   
   - **Website**
     
     - [PostgreSQL Tutorial](https://www.postgresqltutorial.com/) (English) (Free)
+    - [tutorialspoint](https://www.tutorialspoint.com/postgresql/) (English) (Free)
+    
 
 ## Clean Code
 
