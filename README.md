@@ -1,5 +1,9 @@
 # Node.js Backend Engineer Roadmap
+> Roadmap to becoming a [Node.js](https://nodejs.org/en/) developer in 2022:
+## Give a Star! ⭐
+> If you like or are using this project to learn or start your solution, please give it a star. Thanks!
 
+<br/>
 <details><summary><i><b>Table of Contents</b></i></summary>
 
 - [Step 0: Prerequisites](#step-0-prerequisites)
