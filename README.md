@@ -134,7 +134,6 @@
     - [Advanced Node.js Development](https://www.amazon.com/Advanced-Node-js-Development-real-world-applications/dp/1788393937/) (English) (Paid)
  
  - **Complete Courses**
-  - **Node.js**
     - [The Complete Node.js Course with Mosh](https://codewithmosh.com/p/the-complete-node-js-course) (English) (Paid)
     - [The Complete Node.js Developer Course with Andrew Mead](https://www.udemy.com/course/nodejs-the-complete-guide/) (English) (Paid)
   
