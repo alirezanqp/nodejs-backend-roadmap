@@ -133,7 +133,10 @@
     - [Distributed Systems with Node.js](https://www.amazon.com/Distributed-Systems-Node-js-Building-Enterprise-Ready/dp/1492077291/) (English) (Paid)
     - [Advanced Node.js Development](https://www.amazon.com/Advanced-Node-js-Development-real-world-applications/dp/1788393937/) (English) (Paid)
  
- 
+ - **Complete Courses**
+  - [The Complete Node.js Course with Mosh](https://codewithmosh.com/p/the-complete-node-js-course) (English) (Paid)
+  - [The Complete Node.js Developer Course with Andrew Mead](https://www.udemy.com/course/nodejs-the-complete-guide/) (English) (Paid)
+  
 
 ## Step 4: Node.js Web Frameworks
 
@@ -147,6 +150,7 @@ Choose a library according to your project requirements and do not get confused 
   - **Platform**
     - [codecademy](https://www.codecademy.com/learn/learn-express) (English) (Paid)
   - **Video**
+    - [Node.js & Express.js](https://www.youtube.com/watch?v=Oe421EPjeBE&ab_channel=freeCodeCamp.org) (English) (Free)
     - [NodeJS - The Complete Guide by Maximilian](https://www.udemy.com/course/nodejs-the-complete-guide) (English) (Paid)
    
 - ### NestJs
