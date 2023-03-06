@@ -164,17 +164,25 @@ Choose a library according to your project requirements and do not get confused 
 
   - **Video**
     - [Official NestJS Courses by Kamil Mysliwiec (Creator of NestJS)](https://courses.nestjs.com/) (English) (Paid)
-  
-  
+
+
+- ### Fastify
+  - **Documentation**
+    - [Fastify documentation](https://www.fastify.io/) (English)
+  - **Video**
+    - [Fastify Crash Course](https://www.youtube.com/watch?v=Lk-uVEVGxOA&ab_channel=TraversyMedia) (English) (Free)
 
 - ### Koa
-  
-- ### Fastify
+  - **Documentation**
+    - [Koa documentation](https://koajs.com/) (English)
 
 - ### restify
+  - **Documentation**
+    - [restify documentation](http://restify.com/) (English)
 
 - ### hapi
-
+  - **Documentation**
+    - [hapi documentation](https://hapi.dev/) (English)
 
 - [List Of All Node.js Backend Web Frameworks](http://nodeframework.com/)
 
