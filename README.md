@@ -101,7 +101,6 @@
     - [Effective TypeScript](https://www.amazon.com/Effective-TypeScript-Specific-Ways-Improve/dp/1492053740) (English) (Paid)
     - [Learning TypeScript](https://www.amazon.com/Learning-TypeScript-Development-Type-Safe-JavaScript/dp/1098110331) (English) (Paid)
   - **Platform**
-    - [Ditty](https://ditty.ir/c/typescript) (Persian) (Free)
     - [w3schools](https://www.w3schools.com/typescript/default.asp) (English) (Free)
     - [TypeScript Tutorial](https://www.typescripttutorial.net/) (English) (Free)
    
@@ -196,8 +195,6 @@ Choose a library according to your project requirements and do not get confused 
   
   - [Lpic-1 Course by Jadi](https://www.youtube.com/watch?v=AKkNUvEHXhk&list=PLFOYXCPEqdNUU55Xvgst8wGTWnz_sd-cj) (English) (Free)
   - [Lpic-1 Course by Jadi](https://www.youtube.com/watch?v=cqfrsmg4BKo&list=PL-tKrPVkKKE0kM18Sg5fqaZW1V2nidAeU&index=2) (Persian) (Free)
-  - [Linux Course by Morteza Bashsiz](https://sudoer.ir/) (Persian) (Free)
-
 
  - **Platform**
     - [Linux Journey](https://linuxjourney.com/) (English)
@@ -223,10 +220,8 @@ Choose a library according to your project requirements and do not get confused 
   
   - **Video**
     - [SQL & PostgreSQL for Beginners](https://www.udemy.com/course/sql-and-postgresql-for-beginners/) (English) (Paid)
-    - [PostgreSQL Tutorial by Alireza Ayinmehr](https://www.youtube.com/playlist?list=PLdUn5H7OTUk1PSzkW_1KmEX_wASLw7X_M) (Persian) (Free)
   
   - **Website**
-    
     - [PostgreSQL Tutorial](https://www.postgresqltutorial.com/) (English) (Free)
     - [tutorialspoint](https://www.tutorialspoint.com/postgresql/) (English) (Free)
     
@@ -253,12 +248,12 @@ Choose a library according to your project requirements and do not get confused 
   - **Book**
     - [Docker in Action, Second Edition](https://www.manning.com/books/docker-in-action-second-edition) (English) (Paid)
     - [Docker Deep Dive: Zero to Docker in a single book](https://www.amazon.com/Docker-Deep-Dive-Nigel-Poulton-ebook/dp/B01LXWQUFF) (English) (Paid)
+  - **Platform**
+    - [Docker for beginners ✰](https://www.codecademy.com/learn/learn-express) (English) (Paid)
   - **Video**
-    - [Docker Tutorial by Mehran Tarif](https://www.youtube.com/watch?v=j4mYb5ZuH3Q&list=PLAt10Vana3Ye_xFzq-whnnOhPsHQe1NDX) (Persian) (Free)
-    - [Docker Tutorial by Ahmad Rafiee](https://dockerme.ir/category/video/) (Persian) (Free)
-    - [Docker Course by Jadi](https://www.youtube.com/watch?v=_jKNnHROiC0) (Persian) (Free)
-    - [Docker Mastery With Django - very academy](https://www.youtube.com/watch?v=W5Ov0H7E_o4&list=PLOLrQ9Pn6cazCfL7v4CdaykNoWMQymM_C) (English) (Free)
+    - [Docker Tutorial for Beginners with Nana](https://www.youtube.com/watch?v=3c-iBn73dDE) (English) (Free)
     - [Docker Course by Mosh Hamedani](https://codewithmosh.com/p/the-ultimate-docker-course) (English) (Paid)
+    - [Docker Course by Jadi](https://www.youtube.com/watch?v=_jKNnHROiC0) (Persian) (Free)
 
 - ### Kubernetes
   
