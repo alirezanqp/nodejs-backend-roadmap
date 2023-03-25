@@ -249,7 +249,7 @@ Choose a library according to your project requirements and do not get confused 
     - [Docker in Action, Second Edition](https://www.manning.com/books/docker-in-action-second-edition) (English) (Paid)
     - [Docker Deep Dive: Zero to Docker in a single book](https://www.amazon.com/Docker-Deep-Dive-Nigel-Poulton-ebook/dp/B01LXWQUFF) (English) (Paid)
   - **Platform**
-    - [Docker for beginners ✰](https://www.codecademy.com/learn/learn-express) (English) (Paid)
+    - [Docker for beginners](https://www.codecademy.com/learn/learn-express) (English) (Paid) ✰
   - **Video**
     - [Docker Tutorial for Beginners with Nana](https://www.youtube.com/watch?v=3c-iBn73dDE) (English) (Free)
     - [Docker Course by Mosh Hamedani](https://codewithmosh.com/p/the-ultimate-docker-course) (English) (Paid)
