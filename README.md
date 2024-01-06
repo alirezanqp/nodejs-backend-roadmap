@@ -44,6 +44,7 @@
     - [Grokking Algorithms by Aditya Bhargava](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230) (English) (Paid)
     - [Cracking the Coding Interview by Gayle Laakmann McDowell](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) (English) (Paid)
     - [Data Structure and Algorithmic Thinking with Python: Data Structure and Algorithmic Puzzles by Narasimha Karumanchi](https://www.amazon.com/Data-Structure-Algorithmic-Thinking-Python/dp/8192107590) (English) (Paid)
+    - [A Common-Sense Guide to Data Structures and Algorithms, Second Edition, 2nd Edition](https://learning.oreilly.com/library/view/a-common-sense-guide/9781680508048/) (English) (Paid)
 
   - **Video**
     - [Data Structures And Algorithms Course by Mosh Hamedani](https://codewithmosh.com/p/data-structures-algorithms) (English) (Paid)
