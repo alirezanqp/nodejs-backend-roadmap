@@ -233,6 +233,9 @@ Choose a library according to your project requirements and do not get confused 
   - [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) (English) (Paid)
   - [Clean Code in JavaScript](https://www.amazon.com/Clean-Code-JavaScript-reliable-maintainable/dp/1789957648) (English) (Paid)
 
+- **Website**
+  - [Clean Code concepts adapted for TypeScript](https://labs42io.github.io/clean-code-typescript/) (Engilsh) (Free)
+
 ## Caching
 
 (In Progress)
