@@ -72,12 +72,16 @@
 - ### Git
   
   - **Video**
-    - [Git Course by Jadi](https://faradars.org/courses/fvgit9609-git-github-gitlab) (Persian) (Free)
+    - [Git and GitHub for Beginners - Crash Course](https://youtu.be/RGOj5yH7evk?si=IaT517Uwcqr_Z_2M) (English) (Paid)
     - [Git Course by Mosh Hamedani](https://codewithmosh.com/p/the-ultimate-git-course) (English) (Paid)
+    - [Git Course by Jadi](https://faradars.org/courses/fvgit9609-git-github-gitlab) (Persian) (Free)
 
   - **Book**
     - [Pro Git](https://git-scm.com/book/en/) (English) (Free)
+    - [Learning Git](https://learning.oreilly.com/library/view/learning-git/9781098133900/) (English) (Paid)
+    - 
   - **Website**
+    - [Learn Git - Atlassian](https://www.atlassian.com/git) (Free) ✰
     - [Learn Git Branching](https://learngitbranching.js.org/) (English) (Free)
 
 ## Step 1: JavaScript
