@@ -245,7 +245,6 @@ Choose a library according to your project requirements and do not get confused 
   - **‌Book**
     - [Caching at Scale with Redis](https://redis.com/wp-content/uploads/2021/12/caching-at-scale-with-redis-updated-2021-12-04.pdf) (English) (Free) 
 
-(In Progress)
 
 ## Testing
 
@@ -277,7 +276,6 @@ Choose a library according to your project requirements and do not get confused 
  - **Book** 
     - [Object-Oriented JavaScript ](https://www.amazon.com/Object-Oriented-JavaScript-high-quality-applications-libraries/dp/1847194141)(English)(paid)
  
-(In Progress)
 
 ## Architectural Patterns
 
