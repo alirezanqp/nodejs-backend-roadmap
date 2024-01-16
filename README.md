@@ -79,7 +79,7 @@
   - **Book**
     - [Pro Git](https://git-scm.com/book/en/) (English) (Free)
     - [Learning Git](https://learning.oreilly.com/library/view/learning-git/9781098133900/) (English) (Paid)
-    - 
+  
   - **Website**
     - [Learn Git - Atlassian](https://www.atlassian.com/git) (Free) ✰
     - [Learn Git Branching](https://learngitbranching.js.org/) (English) (Free)
@@ -242,6 +242,8 @@ Choose a library according to your project requirements and do not get confused 
   - [Clean Code concepts adapted for TypeScript](https://labs42io.github.io/clean-code-typescript/) (Engilsh) (Free)
 
 ## Caching
+  - **‌Book**
+    - [Caching at Scale with Redis](https://redis.com/wp-content/uploads/2021/12/caching-at-scale-with-redis-updated-2021-12-04.pdf) (English) (Free) 
 
 (In Progress)
 
